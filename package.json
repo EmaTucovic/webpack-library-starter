@@ -2,7 +2,7 @@
   "name": "test-lib-utils",
   "version": "2.0.0",
   "description": "Produce universal library with webpack and es6",
-  "main": "lib/webpack-library-starter.js",
+  "main": "lib/test-lib-utils.js",
   "scripts": {
     "build": "webpack --env dev && webpack --env build && npm run test",
     "dev": "webpack --progress --colors --watch --env dev",
